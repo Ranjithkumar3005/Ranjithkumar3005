@@ -1,0 +1,29 @@
+name: Track Profile Views
+
+on:
+  page_build:
+    types: [completed]
+
+jobs:
+  track_views:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Increment profile views
+        run: |
+          echo "Incrementing profile views..."
+          # Create or update the views.txt file
+          if [ ! -f views.txt ]; then
+            echo "0" > views.txt
+          fi
+          views=$(cat views.txt)
+          ((views++))
+          echo $views > views.txt
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add views.txt
+          git commit -m "Increment profile views"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
