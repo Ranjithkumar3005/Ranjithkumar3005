@@ -17,6 +17,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ranjithkumar3005&theme=default)
 
+## Profile Views: 
+![Profile Views](https://raw.githubusercontent.com/Ranjithkumar3005/Ranjithkumar3005/main/views.txt)
+
 <!---
 Ranjithkumar3005/Ranjithkumar3005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
