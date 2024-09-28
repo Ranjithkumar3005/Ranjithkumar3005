@@ -17,8 +17,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ranjithkumar3005&theme=default)
 
-## Profile Views: 
-![Profile Views](https://raw.githubusercontent.com/Ranjithkumar3005/Ranjithkumar3005/main/views.txt)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjithkumar3005&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthyt" /> </p>
 
 <!---
 Ranjithkumar3005/Ranjithkumar3005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
