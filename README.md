@@ -15,8 +15,7 @@
 
 ⚡ Fun fact: I've watched the entire Marvel Cinematic Universe series more than five times!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ranjithkumar3005&theme=default)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjithkumar3005&show_icons=true&locale=en" alt="ranjithkumar3005" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjithkumar3005&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithkumar" /> </p>
 
