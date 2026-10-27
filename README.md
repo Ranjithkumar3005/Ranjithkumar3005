@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on innovative projects in AI and ML, especially those that are focused on real-world applications.
 
 📫 How to reach me:
-- Email: ranjithkumar3005@example.com
+- Email: srk30052004@gmail.com
 - LinkedIn: [Ranjithkumar3005](https://www.linkedin.com/in/ranjithkumar3005/)
 - Twitter: [@Ranjithkumar3005](https://twitter.com/Ranjithkumar3005)
 
